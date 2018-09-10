@@ -1,21 +1,5 @@
-# travel-bug-fe
+# Travel Bug Application
 
-> Front end of Travel Bug app
+A full CRUD application that allows users to add, update and delete vacation destinations and coordinated activites on their travel todo list.  
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Future application functionality will include allowing users to see their future and completed destination vacations/activites with pins on a fully functional map.
